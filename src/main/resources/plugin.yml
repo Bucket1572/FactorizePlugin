@@ -1,4 +1,4 @@
-name: ${pluginName}
+name: Factorize
 version: ${version}
-main: ${group}.${packageName}.plugin.${pluginName}Plugin
+main: io.github.bucket1572.factorize.plugin.FactorizePlugin
 api-version: 1.17
