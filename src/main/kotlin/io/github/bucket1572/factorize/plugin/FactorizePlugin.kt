@@ -5,4 +5,6 @@ import org.bukkit.plugin.java.JavaPlugin
 /**
  * @author Monun
  */
-class FactorizePlugin : JavaPlugin()
+class FactorizePlugin : JavaPlugin() {
+    val pluginName = "Factorize"
+}
